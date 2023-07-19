@@ -56,3 +56,32 @@ update: 2023-06-20 finish Assignment0
     <img src="pic/2023_7_16_4.png" width = 500>
 (uniform sample（左）      poission sample（右）)
 </center>
+
+### Assignment 2
+
+1. 预计算（Bonus： InterReflection）
+<center class="half">
+    <img src="pic/2023_7_19_1.png" width = 500>
+    <img src="pic/2023_7_19_2.png" width = 500>
+(shadow（左）      inter reflection(Bounces: 5)（右）)
+</center>
+<center>
+<img src="pic/2023_7_19_3.png" width = 1000>
+</center>
+
+2. 实时光照计算
+
+<center class="half">
+    <img src="pic/2023_7_19_4.png" width = 250>
+    <img src="pic/2023_7_19_5.png" width = 250>
+    <img src="pic/2023_7_19_6.png" width = 250>
+    <img src="pic/2023_7_19_7.png" width = 250>
+</center>
+
+3. 环境光球谐旋转(Bounus)
+<center class="half">
+    <img src="pic/2023_7_19_8.png" width = 250>
+    <img src="pic/2023_7_19_9.png" width = 250>
+    <img src="pic/2023_7_19_10.png" width = 250>
+    <img src="pic/2023_7_19_11.png" width = 250>
+</center>
