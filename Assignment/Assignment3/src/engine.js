@@ -28,7 +28,7 @@ function GAMES202Main() {
 	// Cube
 	cameraPosition = [6, 1, 0]
 	cameraTarget = [0, 0, 0]
-	 */
+	// */
 	// /*
 	// Cave
 	cameraPosition = [4.18927, 1.0313, 2.07331]
